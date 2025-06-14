@@ -43,10 +43,10 @@ public class CalculatorTest {
         assertEquals(0, c.subtract(2, 2));
     }
 
-//    @Test
-//    public void testDivide() {
-//        assertEquals(2, c.divide(6, 3));
-//    }
+    @Test
+    public void testDivide() {
+        assertEquals(2, c.divide(6, 3));
+    }
 //
 //    @Test
 //    public void testMultiply() {
