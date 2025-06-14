@@ -38,11 +38,11 @@ public class CalculatorTest {
         assertEquals(2, c.add(1, 1));
     }
 
-//    @Test
-//    public void testSubtract() {
-//        assertEquals(0, c.subtract(2, 2));
-//    }
-//
+    @Test
+    public void testSubtract() {
+        assertEquals(0, c.subtract(2, 2));
+    }
+
 //    @Test
 //    public void testDivide() {
 //        assertEquals(2, c.divide(6, 3));
