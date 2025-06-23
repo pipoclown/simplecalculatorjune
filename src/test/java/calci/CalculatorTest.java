@@ -47,11 +47,11 @@ public class CalculatorTest {
     public void testDivide() {
         assertEquals(2, c.divide(6, 3));
     }
-//
-//    @Test
-//    public void testMultiply() {
-//        assertEquals(64, c.multiply(8, 8));
-//    }
+
+    @Test
+    public void testMultiply() {
+        assertEquals(64, c.multiply(8, 8));
+    }
 //
 //    @Test
 //    public void testMax() {
