@@ -11,9 +11,9 @@ public class Calculator {
 	public int divide(int i, int j) {
 		return i / j;
 	}
-//	public int multiply(int i, int j) {
-//		return i * j;
-//	}
+	public int multiply(int i, int j) {
+		return i * j;
+	}
 //	public int max(int i, int j) {
 //		if (i > j)
 //			return i;
